@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasir Yousuf</h1>
 <h3 align="center">A passionate full-stack and AI enthusiast from India</h3>
 
-- 👨‍💻 All of my projects are available at [nasirr.netlify.com](nasirr.netlify.com)
+- 👨‍💻 All of my projects are available at [nasirr.netlify.app](nasirr.netlify.app)
 
 - 💬 Ask me about **React, MERN, Chrome Extensions & AI API integrations**
 
