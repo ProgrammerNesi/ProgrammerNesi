@@ -123,7 +123,7 @@ to AI agents through secure authenticated tool interfaces compatible with Cursor
 |---|---|
 | 🇮🇳 | Qualified for **India Innovates 2026** — National-level tech competition by MCD |
 | 📊 | **96 percentile in JEE Mains 2024** — Admitted to NIRF #4 ranked central university |
-| 💡 | Solved **350+ DSA problems** on LeetCode with 1500+ rating |
+| 💡 | Solved **550+ DSA problems** on LeetCode with 1500+ rating |
 | 🎓 | Completed **CS50** by Harvard University |
 
 ---
