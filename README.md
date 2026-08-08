@@ -34,6 +34,15 @@ const nasir = {
 ---
 
 ## 🚀 Featured Projects
+### 🔍 [PRism](https://github.com/ProgrammerNesi/PRism) — AI Code Review Platform
+> Next.js · TypeScript · PostgreSQL · BullMQ · Redis · Tree-sitter · pgvector · MCP
+
+- Architected an AI-powered GitHub code review platform using a **distributed webhook BullMQ worker pipeline**, enabling asynchronous
+PR processing, real-time SSE updates, and GitHub inline review comments.
+- Built a **repository-grounded RAG engine** using Tree-sitter AST, semantic embeddings, and pgvector, retrieving only relevant code
+context to improve review quality while reducing LLM token usage by 90%.
+- Extended the platform with an **MCP server**, exposing repository-aware AI code review, architectural pattern analysis, and review retrieval
+to AI agents through secure authenticated tool interfaces compatible with Cursor, Claude Code, and other MCP clien
 
 ### 🔍 [DBLens](https://github.com/ProgrammerNesi/DBLens) — Natural Language → SQL Copilot
 > React · FastAPI · FAISS · MySQL · PostgreSQL
