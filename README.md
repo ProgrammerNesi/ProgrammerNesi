@@ -43,6 +43,7 @@ PR processing, real-time SSE updates, and GitHub inline review comments.
 context to improve review quality while reducing LLM token usage by 90%.
 - Extended the platform with an **MCP server**, exposing repository-aware AI code review, architectural pattern analysis, and review retrieval
 to AI agents through secure authenticated tool interfaces compatible with Cursor, Claude Code, and other MCP client.
+---
 
 ### 🔍 [DBLens](https://github.com/ProgrammerNesi/DBLens) — Natural Language → SQL Copilot
 > React · FastAPI · FAISS · MySQL · PostgreSQL
