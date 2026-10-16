@@ -23,10 +23,9 @@
 
 ```ts
 const nasir = {
-  university : "Jamia Millia Islamia (A Central University) — B.Tech CSE, CGPA 8.6",
   focus      : ["Full-Stack Web", "AI/LLM Integration", "Agentic AI", "System design"],
   currentlyOn: "Building production-grade AI-powered tools",
-  askMeAbout : ["React", "MERN", "FastAPI", "RAG pipelines", "Prompt Engineering"],
+  askMeAbout : ["React", "MERN", "FastAPI", "RAG pipelines", "Agents"],
   funFact    : "I love building stuffs."
 };
 ```
